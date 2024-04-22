@@ -1,0 +1,97 @@
+header{
+background-image: url("Screenshot\ 2024-03-23\ 113134.png");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+#Arc-style{
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+
+}
+.styel-architect{
+display: flex;
+gap: 30px;
+
+}
+#Button-style{
+    border: none;
+    border-radius: 5px;
+    background-color: coral;
+    color: aliceblue;
+    padding: 10px;
+
+}
+section{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   padding: 100px;
+   color: rgb(49, 155, 207);
+
+}
+.section-style{
+
+    margin-top: 150px;
+}
+/* header section end */
+
+.list-style{
+
+    display: flex;
+    margin: 70px;
+    
+}
+.style-more{
+
+    margin-left: 50px;
+}
+.embutton{
+
+    border: none;
+    border-radius: 4px;
+    background-color: coral;
+    padding: 10px;
+    color: aliceblue;
+}
+
+
+/* footer section add */
+footer{
+    display: flex;
+    gap: 70px;
+    background-color: rgb(112, 105, 105);
+    padding: 90px 100px 40px;
+    align-items: first baseline;
+    justify-content: center;
+}
+.Address-icon{
+margin-left: 20px;
+text-align: justify;
+
+}
+.Link-style{
+    padding-left: 0;
+}
+.Link-style a{ 
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+/* box-shadow-style */
+#box-shadow-style div{
+    margin-bottom: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: cadetblue;
+    color: black;
+    text-align: center;
+    box-shadow: 2px 3px 5px 5px rgb(237, 162, 162);
+}
